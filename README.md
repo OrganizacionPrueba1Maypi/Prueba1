@@ -11,3 +11,4 @@ https://drive.google.com/drive/folders/1RFtuSodwpkCuqSzw4WLD5ug_mM9TPUmx?usp=sha
 
 ### Nota: El backend debe estar ejecutándose para que el Cliente o Administrador funcionen.
 edicion desde mi  organizacion
+EDIT N2 DESDE REP LOCAL
